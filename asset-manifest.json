@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Github_Profile_Checker/static/css/main.e2119714.css",
+    "main.js": "/Github_Profile_Checker/static/js/main.92b7ed88.js",
+    "static/media/git.png": "/Github_Profile_Checker/static/media/git.5ddccb51425554203cc8.png",
+    "index.html": "/Github_Profile_Checker/index.html",
+    "main.e2119714.css.map": "/Github_Profile_Checker/static/css/main.e2119714.css.map",
+    "main.92b7ed88.js.map": "/Github_Profile_Checker/static/js/main.92b7ed88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2119714.css",
+    "static/js/main.92b7ed88.js"
+  ]
+}
